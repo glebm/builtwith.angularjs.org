@@ -1519,6 +1519,27 @@
         "Mobile",
         "jQuery"
       ]
+    },
+    {
+      "name": "Zuigo", 
+      "thumb": "zuigo/thumb.png",
+      "desc": "A platform to organize and discover events. All about finding new and interesting things to do, and meeting new people and sharing common interests.",
+      "url": "http://zuigo.com/",
+      "info": "http://zuigo.com/en/articles/about-us",
+      "submitter": "glebm",
+      "submissionDate": "2013-06-23",
+      "tags": [
+        "Production",
+        "Entertainment",
+        "Productivity",
+        "Social",
+        "Animations",
+        "CSS3",
+        "Mobile",
+        "Rails",
+        "jQuery",
+        "Turbolinks"
+      ]
     }
   ]
 }
